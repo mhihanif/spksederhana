@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color:#CCC;
+	text-align:center;
+}
+.box-luar{
+	width:20%;
+	border:0;
+	margin:5% 40% 0% 40%;
+}
+.box-header{
+	padding:20px 10px;
+	text-align:center;
+	font-size:25px;
+	color:#000;
+	background-color:#0FF;	
+}
+.box-dalam{
+	padding:25px 10px;
+	text-align:center;
+	background-color:#FFF;
+}
+.text-box{
+	padding:10px;
+	font-size:15px;
+}
+.button-box{
+	width:90%;
+	padding:5px 0px;
+	font-size:15px;
+	color:#000;
+	background-color:#0FF;
+}
