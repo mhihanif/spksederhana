@@ -2,7 +2,7 @@
 <?php
 echo $_SESSION['ket'];
 $_SESSION['ket']=" ";
-ob_start();
+
 ?>
 <table width="100%" border="1" cellspacing="0" cellpadding="10px" bgcolor="#FFFFFF">
   <tr>
