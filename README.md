@@ -18,12 +18,12 @@ Langkah penggunaan
 4. Buka halaman di localhost/(nama folder project ini)
 5. Login terlebih dahulu menggunakan NIM dan Password untuk mengarahkan pengguna untuk login sebagai admin atau mahasiswa(user)
 6. Untuk halaman Admin, ada 4 menu utama,
-   a. 3 menu diantaranya (User, Mata Kuliah, Bobot) digunakan untuk melakukan CRUD dan view detail)
-   b. 1 Menu untuk melihat laporan hasil SPK masing masing-masing pengguna.
+   1. 3 menu diantaranya (User, Mata Kuliah, Bobot) digunakan untuk melakukan CRUD dan view detail)
+   2. 1 Menu untuk melihat laporan hasil SPK masing masing-masing pengguna.
 7. Untuk halaman Mahasiswa (pengguna), ada 3 menu utama
-   a. Menu Nilai, untuk melakukan input nilai
-   b. Menu Pembobotan, untuk melihat teori SPK dan ringkasan proses SPK nya
-   c. Menu Hasil, untuk melihat hasil SPK
+   1. Menu Nilai, untuk melakukan input nilai
+   2. Menu Pembobotan, untuk melihat teori SPK dan ringkasan proses SPK nya
+   3. Menu Hasil, untuk melihat hasil SPK
 8. Logout untuk keluar dari aplikasi
 
 # Demo
@@ -40,13 +40,13 @@ Jika masih ada kesalahan, silahkan kirimkan Issue.
 Aplikasi ini adalah aplikasi pertama saya yang saya upload di github, sambil mencoba meraba-raba berbagai fitur di github. Untuk itu saya menggunakan project lama saya yang pastinya banyak kekurangan dan masalah. Untuk itu silahkan kirimkan issue, komentar, ataupun kontribusi agar saya bisa lebih paham dalam penggunaan github.
 
 # LICENSE
-Aplikasi ini menggunakan <a href="https://github.com/ardfin/spksederhana/blob/main/LICENSE">lisensi MIT</a>
+Aplikasi ini menggunakan <a href="https://github.com/mhihanif/spksederhana/blob/main/LICENSE">lisensi MIT</a>
 
 # Code of Conduct
-Aplikasi menggunakan contributur convenant pada file <a href="https://github.com/ardfin/spksederhana/blob/main/CODE_OF_CONDUCT.md">CODE_OF_CONDUCT.md</a>
+Aplikasi menggunakan contributur convenant pada file <a href="https://github.com/mhihanif/spksederhana/blob/main/CODE_OF_CONDUCT.md">CODE_OF_CONDUCT.md</a>
 
 # CONTRIBUTING
-Untuk Detail kontribusi bisa dilihat pada <a href="https://github.com/ardfin/spksederhana/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a>
+Untuk Detail kontribusi bisa dilihat pada <a href="https://github.com/mhihanif/spksederhana/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a>
 
 # Author
 * **MUHAMMAD HANIF INDRA**
